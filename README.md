@@ -1,9 +1,8 @@
 # Bootstrap-JavaScript-MERN-Taskss
 # Info
-1) Name: ADITH SAGAR GOWDA
-2) Reg No: 21BAI1928
-3) VIT Email: adithsagar.gowda2021@vitstudent.ac.in
-4) Personal Email: adithgowda06@gmail.com
+1) Name: Mritunjay Kumar
+2) Reg No: 21BCE10897
+
 
 # Details
 This repository includes all the tasks/works done during the course of the MERN-Stack.
